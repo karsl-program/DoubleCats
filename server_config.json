@@ -1,0 +1,6 @@
+{
+    "ip": "0.0.0.0",
+    "port": 8080,
+    "cooldown_time": 2,
+    "max_message_length": 100
+}
